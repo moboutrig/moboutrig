@@ -2,7 +2,7 @@ a<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Agentic%20Engineer&fontSize=90&fontAlign=50&fontAlignY=35&desc=Architecting%20the%20Post-Chat%20Era&descAlign=50&descAlignY=55&stroke=6366f1" alt="Header" />
 </div>
 
-<h1 align="center">Hi, I'm Alex Mercer (moboutrig)</h1>
+<h1 align="center">Hi, I'm mouhamed boutrig  (moboutrig)</h1>
 <h3 align="center">Senior Agentic Engineer | Venture Studio Architect</h3>
 
 <p align="center">
