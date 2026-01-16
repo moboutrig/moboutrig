@@ -1,8 +1,9 @@
-a<div align="center">
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Agentic%20Engineer&fontSize=90&fontAlign=50&fontAlignY=35&desc=Architecting%20the%20Post-Chat%20Era&descAlign=50&descAlignY=55&stroke=6366f1" alt="Header" />
 </div>
 
-<h1 align="center">Hi, I'm mouhamed boutrig  (moboutrig)</h1>
+<h1 align="center">Hi, I'm Mouhamed Boutrig (moboutrig)</h1>
 <h3 align="center">Senior Agentic Engineer | Venture Studio Architect</h3>
 
 <p align="center">
@@ -95,7 +96,7 @@ Frontend
 ![alt text](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![alt text](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-🔮 The Vision: Service-as-a-Software
+<a name="contact"></a>🔮 The Vision: Service-as-a-Software
 
 "Stop building chatbots. Start building Systems. I can help you architect the Agent, the Tools, and the User Interface that makes it usable."
 
@@ -111,6 +112,3 @@ Frontend
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
-
-<p align="center"><small>© 2024 Agentic Systems Lab. Architecting the Post-Chat Era.</small></p>
-```
