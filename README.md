@@ -1,4 +1,8 @@
-
+code
+Markdown
+download
+content_copy
+expand_less
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Agentic%20Engineer&fontSize=90&fontAlign=50&fontAlignY=35&desc=Architecting%20the%20Post-Chat%20Era&descAlign=50&descAlignY=55&stroke=6366f1" alt="Header" />
 </div>
@@ -112,3 +116,6 @@ Frontend
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </div>
+
+<p align="center"><small>© 2026 Agentic Systems Lab. Architecting the Post-Chat Era.</small></p>
+```
